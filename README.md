@@ -131,3 +131,9 @@ Shortcuts for input mode :
 
 - Luke Smith <luke@lukesmith.xyz>
 - [https://lukesmith.xyz](https://lukesmith.xyz)
+
+## Custom features
+
+* [keyboard_select](https://st.suckless.org/patches/keyboard_select/) patch:  
+  Pressing `Enter` on a selection copies it to the clipboard and returns back to insert mode.  
+  Pressing `Esc` on a selection aborts it.  
